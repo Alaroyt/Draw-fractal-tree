@@ -1,0 +1,11 @@
+C:\Users\cd\source\repos\Draw bin tree\bin\Debug\Draw bin tree.exe.config
+C:\Users\cd\source\repos\Draw bin tree\bin\Debug\Draw bin tree.exe
+C:\Users\cd\source\repos\Draw bin tree\bin\Debug\Draw bin tree.pdb
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw fractal tree.csprojAssemblyReference.cache
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw_bin_tree.mainForm.resources
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw_bin_tree.Properties.Resources.resources
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw fractal tree.csproj.GenerateResource.cache
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw fractal tree.csproj.CoreCompileInputs.cache
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw bin tree.exe
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw bin tree.pdb
+C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw_bin_tree.settings.resources
