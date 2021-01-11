@@ -9,19 +9,12 @@ namespace Draw_bin_tree
         /// <summary>
         /// 
         /// </summary>
-        /// <param name="point">корень дерева</param>
-        /// <param name="angle">угол наклона</param>
-        /// <param name="length">длина ствола (каждая следующая веточка = длина ствола / 1.5)</param>
         /// <param name="graphics">CreareGraphics()</param>
-        /// <param name="doRandom">случайные деревья</param>
-        public Tree(Point point, int angle, int length, Graphics graphics, bool doRandom)
+        public Tree(Point point, Graphics graphics)
         {
             _x = point.X;
             _y = point.Y;
-            _angle = angle;
-            _length = length;
             _graphics = graphics;
-            _doRandom = doRandom;
         }
 
         int _x;
@@ -31,18 +24,14 @@ namespace Draw_bin_tree
 
         Graphics _graphics;
 
-        private bool _doRandom;
 
         /// <summary>
         /// Нарисовать описанное дерево
         /// </summary>
         public void DrawTree()
         {
-            if (_doRandom)
-            {
-                _angle = new Random().Next(0, 361);
-                _length = new Random().Next(50, 201);
-            }
+            _angle = new Random().Next(0, 361);
+            _length = new Random().Next(50, 201);
             try
             {
                 drawFractalTree(_x, _y, _angle, _length, _graphics);

@@ -7,22 +7,18 @@ namespace Draw_bin_tree
 {
     public partial class mainForm : Form
     {
-        public mainForm(int angle, int length, bool doRandom)
+
+        public mainForm()
         {
             InitializeComponent();
-            _angle = angle; _length = length;
-            _doRandom = doRandom;
         }
-        int _angle;
-        int _length;
-        bool _doRandom;
 
         private void board_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             Point temp = PointToClient(Cursor.Position);
             Graphics g = board.CreateGraphics();
 
-            Tree tree = new Tree(temp, _angle, _length, g, _doRandom);
+            Tree tree = new Tree(temp,g);
 
             Thread t = new Thread(new ThreadStart(tree.DrawTree));
 

@@ -9,3 +9,13 @@ C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw fractal tree.csproj.CoreCo
 C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw bin tree.exe
 C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw bin tree.pdb
 C:\Users\cd\source\repos\Draw bin tree\obj\Debug\Draw_bin_tree.settings.resources
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\bin\Debug\Draw bin tree.exe.config
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\bin\Debug\Draw bin tree.exe
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\bin\Debug\Draw bin tree.pdb
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\obj\Debug\Draw fractal tree.csprojAssemblyReference.cache
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\obj\Debug\Draw_bin_tree.mainForm.resources
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\obj\Debug\Draw_bin_tree.Properties.Resources.resources
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\obj\Debug\Draw fractal tree.csproj.GenerateResource.cache
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\obj\Debug\Draw fractal tree.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\obj\Debug\Draw bin tree.exe
+C:\Users\Пользователь фрилайт\Source\Repos\Alaroyt\Draw-fractal-tree\obj\Debug\Draw bin tree.pdb

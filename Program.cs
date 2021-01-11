@@ -16,7 +16,7 @@ namespace Draw_bin_tree
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new settings());
+            Application.Run(new mainForm());
         }
     }
 }
